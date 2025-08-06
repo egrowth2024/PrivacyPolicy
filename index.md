@@ -1,6 +1,6 @@
 # Privacy Policy for DoseWell
 
-**Effective Date:** [Your Launch Date, e.g., August 15, 2025]
+**Effective Date:** [August 15, 2025]
 
 Thank you for choosing DoseWell. This Privacy Policy is meant to help you understand what information DoseWell handles, why, and how we protect your privacy. Your trust is important to us, and we are committed to protecting your data.
 
@@ -49,4 +49,4 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
 
 **[Your Name / Developer Name]**
-**[Your Email Address]**
+**[dosewell.app@gmail.com]**
